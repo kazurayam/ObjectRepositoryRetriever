@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "A86E449D01674CAECEDC0ACB7643AC1F",
+  "keywordClasses": [
+    {
+      "name": "com.kazurayam.ks.testobjectrepository.ListObjectRepositoryCommand",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WindowsElementEntity>
+   <description></description>
+   <name>New Windows Object</name>
+   <tag></tag>
+   <locator>//div[@id=&quot;main&quot;]/p</locator>
+   <locatorStrategy>XPATH</locatorStrategy>
+</WindowsElementEntity>

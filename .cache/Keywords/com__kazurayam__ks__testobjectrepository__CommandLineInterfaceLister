@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "724DCADDAE459E5959DF4E290F47217B",
+  "keywordClasses": [
+    {
+      "name": "com.kazurayam.ks.testobjectrepository.CommandLineInterfaceLister",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

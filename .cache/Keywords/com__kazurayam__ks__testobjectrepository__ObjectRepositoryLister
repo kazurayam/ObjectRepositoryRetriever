@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "DCA85FB0238B0F28620BC275EF69D9C7",
+  "keywordClasses": [
+    {
+      "name": "com.kazurayam.ks.testobjectrepository.ObjectRepositoryLister",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

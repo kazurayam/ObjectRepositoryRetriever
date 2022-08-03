@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "8287EAC2A2EE76EF4FA050FBB56F0E8F",
+  "keywordClasses": [
+    {
+      "name": "com.kazurayam.ks.TestObjectToJsonWrapper",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

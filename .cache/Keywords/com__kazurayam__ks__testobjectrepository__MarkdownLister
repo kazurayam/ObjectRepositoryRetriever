@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "4759956441E0BEBFC5D967E14A159299",
+  "keywordClasses": [
+    {
+      "name": "com.kazurayam.ks.testobjectrepository.MarkdownLister",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

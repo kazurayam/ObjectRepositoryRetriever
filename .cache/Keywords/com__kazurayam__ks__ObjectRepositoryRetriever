@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "64BC6450AFBC4177E084574AEDD99E1A",
+  "keywordClasses": [
+    {
+      "name": "com.kazurayam.ks.ObjectRepositoryRetriever",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

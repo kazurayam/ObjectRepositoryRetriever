@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "5B3F4CA8E5F4A7AF73CD5E8000A78842",
+  "keywordClasses": [
+    {
+      "name": "com.kazurayam.ks.testobjectrepository.CommandlineLister",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
