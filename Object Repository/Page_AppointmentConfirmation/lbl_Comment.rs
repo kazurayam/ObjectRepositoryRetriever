@@ -4,6 +4,26 @@
    <name>lbl_Comment</name>
    <tag></tag>
    <elementGuidId>b70ba152-d5df-4e11-9c8a-4730577f03f8</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'comment']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -11,5 +31,6 @@
       <name>id</name>
       <type>Main</type>
       <value>comment</value>
+      <webElementGuid>d0ee572c-8aea-4694-9cde-32d4f65dd702</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

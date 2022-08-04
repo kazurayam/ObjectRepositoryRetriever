@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "44CBB1A6E0B32D3734B05BDF38D323B4",
+  "keywordClasses": [
+    {
+      "name": "com.kazurayam.ks.ComparableTestObject",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

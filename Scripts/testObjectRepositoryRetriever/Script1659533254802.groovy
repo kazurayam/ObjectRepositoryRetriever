@@ -14,5 +14,5 @@ assert testObjects.size() > 0
 println testObjects.size()
 
 testObjects.forEach({ to ->
-	println TestObjectToJsonConverter.toJson(to)
+	println TestObjectToJsonConverter.toJson(to, true)
 })
